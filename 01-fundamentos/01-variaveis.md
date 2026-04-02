@@ -1,0 +1,6 @@
+# 📌 Módulo 1 - Variáveis
+
+## O que aprendi hoje:
+- Variáveis guardam valores...
+- Tipos: int, str, float...
+
