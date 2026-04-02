@@ -1,30 +1,15 @@
 # 📌 Módulo 2 - Estruturas de Controle
 
-Este módulo faz parte do curso **Aprendendo Python**.
-
-Aqui você aprenderá as principais estruturas de controle de fluxo:
-
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Estruturas de repetição (`while` e `for`)
-- Operadores lógicos (`and`, `or`, `not`)
-- `break`, `continue` e `else` em loops
-
-## Arquivos
-
-- `01-if-simples.py` → Condição simples
-- `02-if-else.py` → Condição com alternativa
-- `03-if-elif-else.py` → Múltiplas condições
-- `04-condicoes-aninhadas.py` → If dentro de if
-- `05-operadores-logicos.py` → Uso de and, or, not
-- `06-while.py` → Loop while básico
-- `07-while-else.py` → While com else
-- `08-for-range.py` → For com range()
-- `09-for-lista.py` → For percorrendo listas
-- `10-break-continue.py` → Controle de fluxo em loops
-- `11-desafio-media.py` → Desafio prático
-- `12-desafio-calculadora-simples.py` → Calculadora com menu
-
-Execute os arquivos com:
-```bash
-python nome_do_arquivo.py
-
+02-estruturas-de-controle 🧑🏻‍🏫
+├── 01-if-simples.py
+├── 02-if-else.py
+├── 03-if-elif-else.py
+├── 04-condicoes-aninhadas.py
+├── 05-operadores-logicos.py
+├── 06-while.py
+├── 07-while-else.py
+├── 08-for-range.py
+├── 09-for-lista.py
+├── 10-break-continue.py
+├── 11-desafio-media.py
+└── 12-desafio-calculadora-simples.py
