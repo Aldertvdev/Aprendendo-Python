@@ -27,10 +27,15 @@ variações
 area de memória
 
 [Yuri].nome
+
 [17].idade
+
 [67.5].peso
+
 [PS].cidade
+
 [True].iniciante
+
 [9.9]nota
 
 *exemplo*
