@@ -1,6 +1,7 @@
 # 📌 Módulo 1 - Variáveis
+- Estrada e saida
+- Variáveis e tipos de dados
+- operadores aritméticos
 
-## O que aprendi hoje:
-- Variáveis guardam valores...
-- Tipos: int, str, float...
+## Meu primeiro Código 🧑🏻‍💻
 
