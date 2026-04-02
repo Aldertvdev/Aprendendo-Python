@@ -19,7 +19,7 @@ Link oficial do curso: [Python Básico - Mackenzie](https://www.mackenzie.br/cur
 ### 📚 Estrutura do repositório
 
 - [01-fundamentos](https://github.com/Aldertvdev/Aprendendo-Python/tree/main/01-fundamentos)  → Variáveis, tipos de dados, entrada e saída
-- **02-estruturas-de-controle** → Condicionais (if/else) e loops
+- [02-estruturas-de-controle](https://github.com/Aldertvdev/Aprendendo-Python/tree/main/02-estruturas-de-controle)→ Condicionais (if/else) e loops
 - **03-funcoes** → Funções e modularização
 - **04-colecoes** → Listas, tuplas, dicionários e conjuntos
 - **exercicios** → Todos os exercícios resolvidos
