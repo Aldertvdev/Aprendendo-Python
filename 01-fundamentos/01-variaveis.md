@@ -76,3 +76,7 @@ nome = "Yuri"
 <class 'int'> ➝ **idade**
 
 <class 'float'> **cidade**
+
+
+❗os issues mostro como eu fiz vendo os vídeos do curso diretamente no celular 
+entendeu ou ta com dúvida? acesse [issues](https://github.com/Aldertvdev/Aprendendo-Python/issues/1)
