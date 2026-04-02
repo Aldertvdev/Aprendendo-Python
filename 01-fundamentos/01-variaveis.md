@@ -40,3 +40,26 @@ nome = "Yuri"
 > print("Seja bem vindo(a) ao curso Python Basico,", nome)
 
 > print("Seja bem vindo(a) ao curso Python Basico,", Yuri)
+
+# Tipo de Dado em cada variável 🧑🏻‍🏫
+
+**nome** = "Yuri"
+
+
+**idade** = 17
+
+
+**cidade** = "Porto Seguro"  ← Tem que ter aspas!
+
+>print(type(nome))
+
+>print(type(idade))
+
+>print(type(cidade))
+
+**resultara o código**
+> <class 'str'>
+
+> <class 'int'>
+
+> <class 'str'>
