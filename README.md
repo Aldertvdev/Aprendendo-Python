@@ -27,7 +27,7 @@ Link oficial do curso: [Python Básico - Mackenzie](https://www.mackenzie.br/cur
 
 ### 🚀 Progresso atual
 - [ ] [Módulo 1](https://github.com/Aldertvdev/Aprendendo-Python/issues/1)  Introdução e instalação
-- [ ] Módulo 2 - Variáveis e tipos de dados
+- [ ] [Módulo 2](https://github.com/Aldertvdev/Aprendendo-Python/issues/2)- Variáveis e tipos de dados
 - [ ] Módulo 3 - Operadores e estruturas condicionais
 - [ ] Módulo 4 - Laços de repetição
 - [ ] Módulo 5 - Funções
