@@ -4,4 +4,39 @@
 - operadores aritméticos
 
 ## Meu primeiro Código 🧑🏻‍💻
+> print('Seja bem-vindo(a) ao curso Python Básico')
 
+print
+> é o comando que *apresenta alguma coisa na tela e pega informações dentro das aspas () e vai apresentar na tela*
+
+**Lembre-se** que o correto ao escrever o código é print✅ tudo minúsculo e nao Print❎ ou PRINT❎
+
+## Variáveis 
+**variáveis são espaços que reserva na memória pra alcorar valores, também servem para guardar os valores com operador de atribuição, o sinal de igual = significa atribuição**
+
+*exemplos*
+
+variações
+> nome = 'Yuri' (Coloca o seu nome)
+> idade = 17
+> peso = 67.5
+> cidade = Porto Seguro
+> iniciante = True/False
+> nota = 9.9
+
+area de memória
+
+[Yuri].nome
+[17].idade
+[67.5].peso
+[PS].cidade
+[True].iniciante
+[9.9]nota
+
+*exemplo*
+
+nome = "Yuri"
+
+> print("Seja bem vindo(a) ao curso Python Basico,", nome)
+
+> print("Seja bem vindo(a) ao curso Python Basico,", Yuri)
