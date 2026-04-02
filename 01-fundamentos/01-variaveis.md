@@ -63,3 +63,11 @@ nome = "Yuri"
 > <class 'int'>
 
 > <class 'str'>
+
+*ou seja, reconheceu a variável com as seguintes formas*
+
+<class 'string> ➝ **nome**
+
+<class 'int'> ➝ **idade**
+
+<class 'float'> **cidade**
